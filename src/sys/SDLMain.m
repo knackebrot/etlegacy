@@ -11,6 +11,7 @@
 #import <sys/param.h>
 
 #import "SDL2/SDL.h"
+#import "../qcommon/q_shared.h"
 
 #define SDL_USE_CPS 1
 
